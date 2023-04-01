@@ -1,9 +1,9 @@
 # College Website
-### Welcome to the new official website project of IIIT-Vadodara. 
+### Welcome to the new official website project of Qis clg online website.
 
-[![Join the chat at https://gitter.im/iiitv/college_website](https://badges.gitter.im/iiitv/college_website.svg)](https://gitter.im/iiitv/college_website?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/Qis clg/college_website](https://badges.gitter.im/qis/college_website.svg)](https://gitter.im/qis/college_website?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-We are now live as [official institute website](http://iiitvadodara.ac.in/).
+We are now live as [official institute website](http://qiscollege.ac.in/).
 
 **NOTE**: This repository is no longer related to the live college website, therefore the requests made here for content addition/modifiation are ineffective.
 
